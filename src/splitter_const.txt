@@ -1,6 +1,0 @@
-# coding: utf-8
-const data = { "words": [   "Gonsa originally intended to complete the purchase at a show on April 1, 2006.",
-			    "He told Agent Tunney in a recorded telephone call that he had to change this to April 2 because his bank could not complete the money transfer in time and he had to travel to San Diego to pick up the money for the purchase.",
-			    "Similar to Gonsa’s March 18 purchase, Agent Tunney planned to conduct surveillance of the April 2 purchase.",
-			    "The plan also included coordinating with agents Rais and Murdock in the San Diego Office if Gonsa traveled there to pick up the money and placing a tracking device on his vehicle to help locate the machine conversion shop previously mentioned."
-] } 
